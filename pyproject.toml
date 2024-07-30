@@ -1,0 +1,13 @@
+[build-system]
+requires = ['setuptools']
+build-backend = 'setuptools.build_meta'
+
+[project]
+name = 'app_template'
+description = 'discord bot scaffold'
+version = '0.0.1'
+dependencies = [
+]
+
+[tools.setuptools.packages]
+find = {}
